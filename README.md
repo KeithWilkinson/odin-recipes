@@ -1,5 +1,5 @@
 # odin-recipes
-This project is a simple recipe list website which will help demonstrate what HTML I have learned in the Odin project!
+This project is a simple recipe list website which will help demonstrate what HTML I have learned in The Odin Project!
 
 Elements used in this project
 ----------------------------
